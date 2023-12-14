@@ -56,7 +56,7 @@ hr {
     opacity: 1;
 }
 a {
-	color: #C10037;
+	color: #2A9D8F;
 	transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	-o-transition: all 0.4s ease;
@@ -65,7 +65,7 @@ a {
 	text-decoration: none;
 }
 a:hover {
-	color: #C10037;
+	color: #2A9D8F;
 }
 p {
 	margin-bottom: 20px;
@@ -139,10 +139,10 @@ p {
 	padding: 0 20px;
 }
 .sidebar-menu li a:hover {
-    color: #f66962;
+    color: #7ccdc3;
 }
 .sidebar-menu > ul > li > a:hover {
-    color: #f66962;
+    color: #7ccdc3;
 }
 .mobile_btn {
 	display: none;
@@ -200,10 +200,10 @@ p {
 }
 .sidebar-menu > ul > li > a.active,
 .sidebar-menu > ul > li ul > li > a.active {
-	color: #C10037;
+	color: #2A9D8F;
 }
 .nav-link:focus, .nav-link:hover {
-	color: #f66962;
+	color: #7ccdc3;
 }
 header {
 	left: 0;
@@ -304,7 +304,7 @@ header {
 	color: #000;
 }
 .text-primary {
-	color: #F66962 !important;
+	color: #7ccdc3 !important;
 }
 .text-dark {
 	color: #000 !important;
@@ -373,21 +373,21 @@ pre {
 }
 .btn-primary {
     color: #fff;
-    background-color: #C10037;
-    border-color: #C10037;
+    background-color: #2A9D8F;
+    border-color: #2A9D8F;
 }
 .btn-check:active+.btn-primary:focus, .btn-check:checked+.btn-primary:focus, .btn-primary.active:focus, .btn-primary:active:focus, .show>.btn-primary.dropdown-toggle:focus {
 	box-shadow: unset;
 }
 .btn-primary:hover {
 	background-color: #fff;
-    border-color: #C10037;
-	color: #C10037;
+    border-color: #2A9D8F;
+	color: #2A9D8F;
 }
 .btn-primary:active,.btn-primary:focus {
     color: #fff;
-    background-color: #C10037;
-    border-color: #C10037;
+    background-color: #2A9D8F;
+    border-color: #2A9D8F;
 }
 .bg-success {
 	background: #21B787;
@@ -433,7 +433,7 @@ section {
 	color: #fff;
 }
 .footer .top-move {
-	background: #C10037;;
+	background: #2A9D8F;;
 	width: 52px;
 	height: 52px;
 	display: flex;
@@ -450,7 +450,7 @@ section {
     transform: translate(0, -50%);
 }
 .footer .top-move:hover {
-	background: #C10037;;
+	background: #2A9D8F;;
 }
 .document-box {
 	background-color: #F7F8F8;
